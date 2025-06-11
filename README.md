@@ -1,2 +1,2 @@
 # sysadminMC
-Course Projecet 2
+Course Project 2
