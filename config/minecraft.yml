@@ -1,4 +1,4 @@
-- hosts: mc
+- hosts: minecraft
   become: yes
 
   tasks:
